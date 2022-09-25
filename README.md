@@ -1,2 +1,8 @@
 # GreenCart-App-Test-
-Testing for Customer Sorting on GreenCart App
+Customer GreenCart Table Sorting 
+
+## Technology
+* Python
+* Selenium
+
+
